@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./transitusanimae00perogoog_0024.png"; bbox 0 0 1338 1806; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 624 1650 766 1665">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 624 1650 766 1665">
+     <span class='ocr_line' id='line_1_1' title="bbox 624 1650 766 1665; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 755 1653 766 1665; x_wconf 62' lang='grc' dir='ltr'>κ-</span> <span class='ocrx_word' id='word_1_2' title='bbox 624 1650 691 1665; x_wconf 56' lang='lat' dir='ltr'>monne«</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 143 1019 810 1020">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 143 1019 810 1020">
+     <span class='ocr_line' id='line_1_2' title="bbox 143 1019 810 1020; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 143 1019 810 1020; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 187 1009 927 1011">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 187 1009 927 1011">
+     <span class='ocr_line' id='line_1_3' title="bbox 187 1009 927 1011; textangle 270"><span class='ocrx_word' id='word_1_4' title='bbox 187 1009 927 1011; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 442 762 1199 763">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 442 762 1199 763">
+     <span class='ocr_line' id='line_1_4' title="bbox 442 762 1199 763; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 442 762 1199 763; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 207 102 758 102">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 207 102 758 102">
+     <span class='ocr_line' id='line_1_5' title="bbox 207 102 758 102; textangle 270"><span class='ocrx_word' id='word_1_6' title='bbox 207 102 758 102; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 99 26 1273 1068">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 99 26 1273 1068">
+     <span class='ocr_line' id='line_1_6' title="bbox 99 26 1273 1068; textangle 270"><span class='ocrx_word' id='word_1_7' title='bbox 99 26 1273 1068; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
